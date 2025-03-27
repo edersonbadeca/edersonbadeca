@@ -9,6 +9,10 @@ Welcome to my GitHub profile! I'm passionate about coding and love to work on ex
 - 📫 How to reach me: [edersonbadeca@example.com](mailto:edersonbadeca@example.com)
 - ⚡ Fun fact: I love hiking and exploring nature.
 
+## 🏆 Achievements
+
+![GitHub Achievements](https://github-profile-trophy.vercel.app/?username=edersonbadeca&theme=radical)
+
 ## 🛠️ Technologies & Tools
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
