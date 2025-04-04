@@ -23,6 +23,5 @@ leading agile teams to develop robust and highly scalable applications and platf
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=edersonbadeca&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### College Projects
-https://github.com/orgs/farm-solutions/repositories
-
+## Certifications
+[List of the latest certifications](https://drive.google.com/drive/folders/1oH0uFbyVXDviUGWT9zEwWFI2M34kRLqN?usp=sharing)
