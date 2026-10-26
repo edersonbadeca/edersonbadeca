@@ -7,7 +7,7 @@ organizations, quantifying and setting annual organizational and technology
 improvement goals, approving ROI for projects with multimillion-dollar budgets, and
 leading agile teams to develop robust and highly scalable applications and platforms.
 
-🔭 Now days, I am currently working as a platform engineer building robusts AI Platforms
+🔭 Now days, I am currently working as a Principal consultant (AI SME) building enterprises AI Platforms
 
 
 ## 🌐Socials
